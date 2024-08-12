@@ -8,14 +8,14 @@
     (downloadable [here](https://iccl.inf.tu-dresden.de/web/WVPub346)) and author of the scientific publication [*Topological Investigations of the Operators of the
     Well-Founded, and Alternating Fixed-Point Semantics of Normal Logic Programs*](https://www.sciencedirect.com/science/article/pii/S1571066104807655).
 - 👀 I’m interested in 
-  - front end technologies like React, Svelte, Angular, Vue, and of course HTML, CSS, and Javascript.
+  - front end technologies like React, Svelte, Angular, Vue, Solid, and of course HTML, CSS, and Javascript.
   - back end technologies like Node, Express, Koa, and others.
-  - MongoDB, Neo4j, MySQL, and other databases.
+  - Microsoft SQL Server, MongoDB, Neo4j, MySQL, and other databases.
   - network programming and the HTTP protocol.
-  - programming languages: Javascript, Typescript, Dart, PHP, Go, C++, Java, and Rust
-  - desktop and mobile technologies like Electron, Flutter, and Qt.
-  - IDEs and code editors like VS Code.
-- 🌱 I’m currently deepen my knowledge in CSS, Web APIs, and some NPM packages used with Node and Express.
+  - programming languages: Javascript, Typescript, Python, Java, Rust, PHP, Go, and C++.
+  - desktop and mobile technologies like React Native, Electron, Slint, LVGL, Qt, and Flutter.
+  - IDEs and code editors like VS Code, PyCharm, and Zed.
+- 🌱 I’m currently deepen my knowledge in React 19 RC, Next.js 15 RC, React libraries, and some NPM packages used with Node and Express.
 - :musical_note: I often hear classical music.
 
 
